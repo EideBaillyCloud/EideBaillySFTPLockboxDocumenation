@@ -29,7 +29,7 @@ url: /EideBaillySFTPLockbox/docs
 
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
