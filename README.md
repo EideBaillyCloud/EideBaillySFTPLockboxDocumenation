@@ -24,3 +24,9 @@ The function app provides developers with three functions:
 1. [Azure Deployment](docs/deployment/AzureDeployment.md)
 2. [Configuration](docs/configuration/AzureConfiguration.md)
 3. [Troubleshooting](docs/troubleshooting/Troubleshooting.md)
+
+## Reference Architecture
+
+The following diagram provides a reference architecture for consuming this funcation application from within Microsoft Dynamics Business Central, as an example.
+
+![Eide Bailly SFTP Function App Reference Architecture](assests/BC_Lockbox.png)
