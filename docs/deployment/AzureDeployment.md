@@ -14,3 +14,8 @@ In this step, you can configure your preferred storage account settings for the 
 ![Networking step screenshot](../../assests/SFTP_Networking.png)
 
 In this step, you can configure your preffered networking settings for the function app.
+
+## 4. Review and Create step
+![Review and create step screenshot](../../assests/SFTP_ReviewCreate.png)
+
+This is the final step.  After clicking next the application will deploy into your choosen subscription.
