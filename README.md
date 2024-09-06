@@ -3,4 +3,4 @@ Thank you for your interest in the Eide Bailly SFTP Lockbox Function.  This Azur
 
 ## Documentaiton
 
-1. Azure Deployment[docs/deployment/AzureDeployment.md]
+1. [Azure Deployment](docs/deployment/AzureDeployment.md)
