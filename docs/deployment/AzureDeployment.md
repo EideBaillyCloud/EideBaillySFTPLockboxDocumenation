@@ -18,4 +18,6 @@ In this step, you can configure your preffered networking settings for the funct
 ## 4. Review and Create step
 ![Review and create step screenshot](../../assests/SFTP_ReviewCreate.png)
 
-This is the final step.  After clicking next the application will deploy into your choosen subscription.
+This is the final step.  After clicking the Create button the application will deploy into your choosen subscription.
+
+Now you are ready to move onto the configuration process, outlined [here](../configuration/AzureConfiguration.md).

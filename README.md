@@ -17,7 +17,7 @@ The function app provides developers with three functions:
 3. GetFile
    - POST: { "Path": "full path to your file" }
    - Returns the contents of the file at the supplied FULL path as a Json object.  Each line in the file can be parsed according to the BIA 2 specification.
-   - Suppliying "testFile" as the Path parameter will return a sample file's contents.  This can be useful while developing your file parsing logic if your institions archieves or deletes files after they are read from the server.
+   - Supplying "testFile" as the Path parameter will return a sample file's contents.  This can be useful while developing your file parsing logic if your institions archieves or deletes files after they are read from the server.
 
 ## Documentaiton
 
