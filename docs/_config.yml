@@ -23,7 +23,7 @@ description: Documentation for the Eide Bailly SFTP Lockbox Azure Function.
 
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
