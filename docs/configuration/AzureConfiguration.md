@@ -10,7 +10,7 @@ The Key Vault secrets are created for you as part of the deployment process, how
    - **SftpUserName:** Create a new version and set the value to be the user name that your institution has assigned to you.
    - **SftpUrl:** Create a new version and set the value to be the URL of the PRODUCTION SFTP lockbox site.
    - **SftpTestUrl:** Create a new version and set the value to be the URL of the VALIDATION or TEST SFTP lockbox site.
-   - **SftpKeyFile:** This one requires a little different procedure in order to get your key file into the secret. There are several way to accomplish this task and we encourage you to use the method that you are most comfortable with.  The steps that follow seem to be the most straight forward, but if you have a more preferred method, please use that instead.
+   - **SftpKeyFile:** This one requires a little different procedure in order to get your key file into the secret. There are several ways to accomplish this task and we encourage you to use the method that you are most comfortable with.  The steps that follow seem to be the most straight forward, but if you have a more preferred method, please use that instead.
 
      - Open a cloud shell in the Azure Portal
      - Upload your key file using the file upload feature.  This uploads the key file into the current cloud shell's storage (which may be temporary).
