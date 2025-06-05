@@ -17,7 +17,7 @@ The Key Vault secrets are created for you as part of the deployment process, how
 
      ![File upload screenshot](/assests/FileUpload.png)
 
-     - Run the following Azure command line command in the cloud shell: `az keyvault secret set –vault-name <name of key vault> –name SftpKeyFile –file <private ssh key > –encoding ascii`
+     - Run the following Azure command line command in the cloud shell: `az keyvault secret set --name SftpKeyFile --vault-name {Key Vault Name} --file {Key File Name with extension} --encoding ascii`
 
 ## Function App
 The Function App has several custom environment variables and settings that are configured as part of the deployment.  This section outlines those variable along with settings that can be useful for testing and / or troubleshooting.
